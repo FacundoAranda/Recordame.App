@@ -1,0 +1,4 @@
+Lo que aprendimos en esta aula:
+
+Filtrar elementos de un arreglo
+Ordenar los elementos del LocalStorage

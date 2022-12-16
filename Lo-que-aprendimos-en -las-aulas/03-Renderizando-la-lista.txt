@@ -1,0 +1,5 @@
+Lo que aprendimos en esta aula:
+
+Recorrer el arreglo con forEach() de las tareas guardadas en LocalStorage
+Utilizar pipe
+Convertir las tareas almacenadas en formato string a objetos con JSON.parse()

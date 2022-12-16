@@ -1,0 +1,5 @@
+Lo que aprendimos en esta aula:
+
+Guardar las tareas en el navegador utilizando SessionStorage
+Almacenar las tareas con LocalStorage
+Transformar objetos en string utilizando JSON.stringify()
