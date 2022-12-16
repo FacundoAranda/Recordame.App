@@ -1,0 +1,5 @@
+Lo que aprendimos en esta aula:
+
+Cambiar un estado utilizando operador de negación
+Eliminar datos del LocalStorage utilizando el método splice
+Subir nuestro proyecto a Github Pages
